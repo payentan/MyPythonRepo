@@ -1,7 +1,9 @@
 jieba==0.39
 keras==2.2.5
 nltk==3.4.5
+pydotplus==2.0.2
 pyhanlp==0.1.48
+pyprind==2.11.2
 scipy==1.3.1
 scikit-learn==0.21.3
 spacy==2.1.8
